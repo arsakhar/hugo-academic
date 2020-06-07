@@ -1,6 +1,8 @@
-<div class="article-container-nav" style="position: relative;">
-	<nav style="position: absolute; right: 100%;">
-		<div class="sticky-scroll navtab-position nav flex-column nav-pills" id="nav-tab" role="tablist">
+<div class="article-container-nav">
+<!-- <div class="article-container-nav" style="position: relative;"> -->
+	<nav>
+	<!-- <nav style="position: absolute; right: 100%;"> -->
+		<div class="sticky-scroll navtab-position nav flex-row nav-pills" id="nav-tab" role="tablist">
 			<br>
 			{{ $tabTotal := .Get "tabTotal" }}
 			{{ range $i, $sequence := (seq $tabTotal) }}
