@@ -1,0 +1,10 @@
+html
+{
+	scroll-behavior: smooth;
+}
+
+main > nav {
+	position: sticky;
+	top: 2rem;
+	align-self: start;
+}
