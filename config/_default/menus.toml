@@ -10,8 +10,15 @@
 
 [[main]]
   name = "Projects"
+  identifier="All Projects"
   url = "#projects"
   weight = 15
+
+[[main]]
+name = "Virtual Reality"
+parent = "All Projects"
+url = "/virtual-reality"
+weight = 15
 
 [[main]]
   name = "Skills"

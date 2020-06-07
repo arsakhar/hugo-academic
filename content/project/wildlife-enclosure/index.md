@@ -46,4 +46,6 @@ This is the second in our trilogy of virtual reality exergames. You start the ga
 For the selective attention task, you are required to pick up objects associated with your mission. For example, if you are putting out a fire, you will be required to pickup axes and fire extinguishers on the way. For spatial navigation, you are assigned to one route each day. You will complete 4 missions, each time biking along the same route. For the first two missions, we will provide arrows to help you learn the route. After 2 missions, you are required to remember the route using only the landmarks and environment as cues. At the beginning of each day, prior to starting your 4 missions, you will be required to remember and navigate the route from the previous day. The difficulty of your routes will increase and the routes will get longer as you start moving towards the perimeter of the wildlife enclosure.
 
 ### Video
-<!-- {{<video src="Wildlife Enclosure.mp4" controls="yes">}} -->
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/YLXAhpwOIpM" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>

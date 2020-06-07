@@ -46,6 +46,6 @@ This is the first in our trilogy of virtual reality exergames. You start the gam
 For the selective attention task, you are required to pick up food associated with the diet of the animal you are currently rescuing. For spatial navigation, you are assigned to one route each day. You will complete 4 rescue missions. each time biking along this route and rescuing an animal before you end up at the gates of the sanctuary. For the first two rescue missions, we will provide arrows to help you learn the route. After 2 rescue missions, you are required to remember the route using only the landmarks and environment as cues. At the beginning of each day, prior to starting your 4 rescue missions, you will be required to remember and navigate the route from the previous day. The difficulty of your routes will increase and the routes will get longer as you start rescuing animals located further away from the sanctuary.
 
 <b> Video </b>
-
-
-<!-- {{<video src="Sals Sanctuary.mp4" controls="yes">}} -->
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/kI0bbrvH4hU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
