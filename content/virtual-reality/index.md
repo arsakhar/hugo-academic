@@ -20,11 +20,11 @@ associated with a reduced risk of dementia. Virtual reality is a promising techn
 ### <b>Games</b>
 Sal's Sanctuary and Wildlife Enclosure are two fun, engaging, and cognitively challenging virtual reality exergames designed specifically for older adults. A third game, Underwater Adventures is currently in development.
 
-<a href="/project/sals-sanctuary/">Sal's Sanctuary</a> - Rescue animals while navigating an urban environment in this fun and cognitively challenging virtual reality exergame
+<a href="/project/sals-sanctuary/">Sal's Sanctuary</a> - Rescue animals that have escaped the sanctuary while navigating an urban environment
 
-<a href="/project/wildlife-enclosure/">Wildlife Enclosure</a> - Look after and take care of the animals while navigating a savannah, safari, jungle, and aviary in this fun and cognitively challenging virtual reality exergame
+<a href="/project/wildlife-enclosure/">Wildlife Enclosure</a> - Look after and take care of rescued animals located in exotic environments
 
-<b>Underwater Adventures (In Development)</b>
+<b>Underwater Adventures (In Development)</b> - Explore and photograph aquatic life in this underwater world
 {{< /tab >}}
 
 
@@ -34,10 +34,11 @@ Sal's Sanctuary and Wildlife Enclosure are two fun, engaging, and cognitively ch
 <ol>
   <li>Developed a cognitively challenging exergame in virtual reality for older adults <b>(Lead Engineer)</b></li>
   <li>Developed the environments, physics, and interaction system for the game</li>
-  <li>Collaborated with a small, high-energy team of undergraduate students, master’s students, and professors</li>
+  <li>Collaborated with a small, high-energy team of undergraduate students, master students, and professors</li>
   <li>Optimized performance by utilizing assets and other techniques to reduce rendering overhead in virtual reality</li>
-  <li>Integrated a heart rate monitor and custom-built exercise bike into to the game</li>
-  <li>Designed and developed a SQL database to store data</li>
+  <li>Integrated a heart rate monitor into to the game for monitoring a users heart rate and heart rate variability</li>
+  <li>Integrated a custom-built exercise bike as an input controller for biking in the game</li>
+  <li>Designed and developed a SQL database to store game data</li>
   <li>Designed and developed a login and registration system to manage a user’s session</li>
   <li>Installed and maintained a version control server</li>
 </ol>

@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Sal's Sanctuary"
-summary: "Rescue animals while navigating an urban environment in this fun and cognitively challenging virtual reality exergame"
+summary: "Rescue animals that have escaped the sanctuary while navigating an urban environment"
 authors: []
 tags: ["Virtual Reality"]
 categories: ["Virtual Reality"]
@@ -41,9 +41,11 @@ slides: ""
 ---
 
 <b> Overview </b><br>
-This is the first in our trilogy of virtual reality exergames. You start the game as a rookie ranger at Sal's Sanctuary, a nature reserve for animals set in an urban environment. The animal's have escaped the sanctuary and you are tasked with locating and return them safely to the sanctuary. There are two primary cognitive skills assessed each time you participate in a rescue mission: selective attention and spatial navigation.
+The first in a trilogy of virtual reality exergames designed to enhance brain health. Your adventure begins as a rookie ranger at Sal's Sanctuary, a nature reserve for animals set in an urban environment. The animal's have escaped the sanctuary and you are tasked with locating and returning them safely. Your selective attention and spatial navigation abilities will be tested each time you conduct a rescue mission.
 
-For the selective attention task, you are required to pick up food associated with the diet of the animal you are currently rescuing. For spatial navigation, you are assigned to one route each day. You will complete 4 rescue missions. each time biking along this route and rescuing an animal before you end up at the gates of the sanctuary. For the first two rescue missions, we will provide arrows to help you learn the route. After 2 rescue missions, you are required to remember the route using only the landmarks and environment as cues. At the beginning of each day, prior to starting your 4 rescue missions, you will be required to remember and navigate the route from the previous day. The difficulty of your routes will increase and the routes will get longer as you start rescuing animals located further away from the sanctuary.
+You are assigned to one route each day and will be required to make at least 4 search and rescue trips along this route. Once an animal is located, you will pick it up and bring it back to the gates of the sanctuary before starting your next search and rescue. You are also required to pick up any food along the route that is associated with the diet of the animal you have rescued.
+
+For the first two rescue missions, we will provide visual guidance to help you learn the route. After 2 rescue missions, you are required to remember the route using only the landmarks and environment as your guidance. At the beginning of each new day, prior to starting your 4 rescue missions, you will be required to remember and navigate the route from the previous day. The difficulty of your routes will increase and the routes will get longer as you start rescuing animals located farther away from the sanctuary.
 
 <b> Video </b>
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">

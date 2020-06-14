@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Wildlife Enclosure"
-summary: "Look after and take care of the animals while navigating a savannah, safari, jungle, and aviary in this fun and cognitively challenging virtual reality exergame"
+summary: "Look after and take care of rescued animals located in exotic environments"
 authors: []
 tags: ["Virtual Reality"]
 categories: ["Virtual Reality"]

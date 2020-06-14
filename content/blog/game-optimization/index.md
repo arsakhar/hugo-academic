@@ -28,7 +28,7 @@ image:
 projects: ["sals-sanctuary", "wildlife-enclosure"]
 ---
 
-{{< tabs tabTotal="6" tabID="1" tabName1="Background" tabName2="Garbage Collection" tabName3="Polygon Count" tabName4="Draw Calls" tabName5="Camera Culling" tabName5="Static Batching" tabName6="References" >}}
+{{< tabs tabTotal="7" tabID="1" tabName1="Background" tabName2="Garbage Collection" tabName3="Polygon Count" tabName4="Draw Calls" tabName5="Camera Culling" tabName6="Static Batching" tabName7="References" >}}
 
 {{< tab tabNum="1" >}}
 ### Background

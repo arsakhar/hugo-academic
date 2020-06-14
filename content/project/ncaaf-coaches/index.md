@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Ranking College Football Coaches"
-summary: "A novel approach for evaluating the performance of a college football coach"
+summary: "Using Data Science to Evaluate Recruiting and Player Development in College Football"
 authors: []
 tags: ["Data Science"]
 categories: ["Data Science"]
@@ -40,4 +40,14 @@ url_video: ""
 slides: ""
 ---
 
-<b> Coming Soon... </b>
+<b>Background</b><br>
+I’m an avid college football fan with a keen interest in data science. For my first dive into data science, I will use some basic statistics and data manipulation to evaluate coaching in college football.
+<br><br>
+<b>Defining the Problem</b><br>
+Football is the crown jewel and breadwinner in any collegiate athletic department. A successful football program is not only a source of revenue for the university, it is also a powerful marketing tool, as studies have shown winning to be associated with increased donations, academic reputation, and lower acceptance rates. Therefore, it’s no surprise that coaches wield significant power and lofty salaries.
+
+Coaches also carry the burden of high expectations, poor job security, and an average tenure of only 3.8 years. While the decision to hire or fire a coach is a multi-factorial process, it is primarily driven by their record. Consequently, a coach’s value, particularly with donors and fans, is inextricably tied to their performance on the field.
+
+However, wins and losses are driven by several factors, many of which are outside a coach’s control, including conference affiliation, prestige, location, historical success, and financial investment from the university. As such, a coach’s record is not the most objective way to assess their value. In this project we will set out to define an approach for evaluating coaches while minimizing the impact of these confounding factors. Let's get started!
+
+Continue reading on Medium: <a href="https://medium.com/@arsakhare87/using-data-science-to-evaluate-recruiting-and-player-development-in-college-football-a8c5c5cd447d"> Using Data Science to Evaluate Recruiting and Player Development in College Football </a>
