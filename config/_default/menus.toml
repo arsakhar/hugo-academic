@@ -29,13 +29,13 @@ weight = 15
 [[main]]
 name = "Brain Imaging"
 parent = "All Projects"
-url = "/project/fitviz"
+url = "/project/neuroflow"
 weight = 16
 
 [[main]]
 name = "Clinical Research"
 parent = "All Projects"
-url = "/project/neuroflow"
+url = "/project/fitviz"
 weight = 17
 
 [[main]]
