@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Ranking College Football Coaches"
-summary: "Using Data Science to Evaluate Recruiting and Player Development in College Football"
+summary: "Using data science to evaluate recruiting and player development in colllege football"
 authors: []
 tags: ["Data Science"]
 categories: ["Data Science"]

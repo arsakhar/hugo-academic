@@ -10,7 +10,7 @@ categories: ["Virtual Reality"]
 date: 2019-08-08T22:42:40-07:00
 lastmod: 2019-08-08T22:42:40-07:00
 featured: false
-draft: true
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -32,7 +32,7 @@ projects: ["sals-sanctuary", "wildlife-enclosure"]
 
 {{< tab tabNum="1" >}}
 ### Background
-The majority of VR headsets on the market use a 90 Hz refresh rate, such that the display on the headset is refreshed every 11 ms. Dropped frames will occur if the computer is unable to render an image within that time frame. API’s employ several techniques to account for dropped frames. These include timewarp, asynchronous timewarp, interleaved reprojection, motion smoothing, and positional timewarp.<sup>4</sup> While these techniques account for dropped frames to a certain extent, a poorly optimized game will still result in jittery views which can be quite nauseogenic. Therefore, performance optimization is a key component of game development. In this article, I will provide a brief overview of the most common techniques used to optimize performance. I will also provide links that provide a more in-depth discussion of each technique. Please note that this is not an exhaustive list of performance tips, rather a list of low hanging fruit a develop can use to get substantial improvements in performance.
+The majority of VR headsets on the market use a 90 Hz refresh rate, such that the display on the headset is refreshed every 11 ms. Dropped frames will occur if the computer is unable to render an image within that time frame. API’s employ several techniques to account for dropped frames. These include timewarp, asynchronous timewarp, interleaved reprojection, motion smoothing, and positional timewarp.<sup>4</sup> While these techniques account for dropped frames to a certain extent, a poorly optimized game will still result in jittery views which can be quite nauseogenic. Therefore, performance optimization is a key component of VR game development. In this article, I will provide a brief overview of the most common techniques used to optimize performance. I will also provide links that provide a more in-depth discussion of each technique. Please note that this is not an exhaustive list of performance tips, rather a list of low hanging fruit that can lead to substantial improvements in performance.
 {{< /tab >}}
 
 
@@ -41,6 +41,8 @@ The majority of VR headsets on the market use a 90 Hz refresh rate, such that th
 Garbage collection (GC) is a form of automated memory management.<sup>1</sup> There are two types of memory allocation: heap and stack. Furthermore, there are two data types: primitive and non-primitive.<sup>3</sup> Primitive data types include the following: bool, bytes, short, int, long, float, double, decimal, and char. All primitive data type values are stored in stack memory. Non-primitive data types are objects and include the following: class, struct, enum, array, and string. Non-primitive data types are known as reference types, as the stack memory only contains a reference to the value. The reference in the stack points to an object located in heap memory that contains the value . GC only track objects (non-primitive data types) that occupy space in heap memory.<sup>2</sup> The job of GC is to free memory when the object is no longer being referenced in the stack memory.
 
 Unity uses the Boehm–Demers–Weiser GC5, which is a type of stop-the-world GC. This means that when GC is required, code execution will stop until the GC process is complete. Depending on the frequency of GC, this can result in dropped frames and significantly affect the smoothness of gameplay. The figure below illustrates code that minimizes garbage collection (GoodExample) and unnecessarily increases garbage collection (BadExample).
+
+![Example image](/img/game-optimization/garbage-collect.png)
 
 
 In the bad example, we are instantiating a new WaitForSeconds routine every second. This results in a heap memory allocation every time an instance of WaitForSeconds is created. Each heap memory allocation is going to trigger a garbage collection. To minimize garbage collection, a single instance of WaitForSeconds can be used used if the wait period is the same each time.

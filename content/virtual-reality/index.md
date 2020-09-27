@@ -5,7 +5,7 @@ title: "Virtual Reality"
 type: "virtual-reality"
 ---
 
-{{< tabs tabTotal="5" tabID="1" tabName1="Inspiration" tabName2="Games" tabName3="Responsibilities" tabName4="Skills" tabName5="News Coverage" >}}
+{{< tabs tabTotal="6" tabID="1" tabName1="Inspiration" tabName2="Games" tabName3="Bike" tabName4="Responsibilities" tabName5="Skills" tabName6="News Coverage" >}}
 
 
 {{< tab tabNum="1" >}}
@@ -27,12 +27,18 @@ Sal's Sanctuary and Wildlife Enclosure are two fun, engaging, and cognitively ch
 <b>Underwater Adventures (In Development)</b> - Explore and photograph aquatic life in this underwater world
 {{< /tab >}}
 
-
 {{< tab tabNum="3" >}}
+### <b>Bike</b>
+<a href="/project/vr-bike/">NeuroRiderVR</a> - A novel, custom-built exercise bike designed specifically for older adults and locomotion in VR.
+{{< /tab >}}
+
+
+{{< tab tabNum="4" >}}
 ### <b>Responsibilities</b>
 
 <ol>
   <li>Developed a cognitively challenging exergame in virtual reality for older adults <b>(Lead Engineer)</b></li>
+  <li>Developed a custom-built exercise bike <b>(Lead Engineer)</b></li>
   <li>Developed the environments, physics, and interaction system for the game</li>
   <li>Collaborated with a small, high-energy team of undergraduate students, master students, and professors</li>
   <li>Optimized performance by utilizing assets and other techniques to reduce rendering overhead in virtual reality</li>
@@ -45,7 +51,7 @@ Sal's Sanctuary and Wildlife Enclosure are two fun, engaging, and cognitively ch
 {{< /tab >}}
 
 
-{{< tab tabNum="4" >}}
+{{< tab tabNum="5" >}}
 ### <b>Soft Skills</b>
 <ol>
 <li>Leading small teams on large-scale, long-term projects</li>
@@ -57,6 +63,9 @@ Sal's Sanctuary and Wildlife Enclosure are two fun, engaging, and cognitively ch
 ### <b>Technical Skills</b>
 <ol>
 <li>Developing serious games for virtual reality</li>
+<li>Creating 3D CAD parts and assemblies In SolidWorks</li>
+<li>Designing for manufacturing and working with the machine shop</li>
+<li>Designing and soldering circuits</li>
 <li>Designing levels, game physics and interaction systems in Unity 3D</li>
 <li>Working with assets, scripts, prefabs, textures, animation, GUI, events, and scriptable objects in Unity3D</li>
 <li>Familiarity with design patterns and interfaces</li>
@@ -67,6 +76,7 @@ Sal's Sanctuary and Wildlife Enclosure are two fun, engaging, and cognitively ch
 ### <b>Software</b>
 <ol>
 <li>Perforce</li>
+<li>SolidWorks</li>
 <li>Unity3D</li>
 <li>Visual Studio</li>
 <li>XAMPP</li>
@@ -77,6 +87,7 @@ Sal's Sanctuary and Wildlife Enclosure are two fun, engaging, and cognitively ch
 <li>C#</li>
 <li>PHP</li>
 <li>SQL</li>
+<li>C/C++ (Arduino)</li>
 </ol>
 
 ### <b>Packages</b>
@@ -89,11 +100,13 @@ Sal's Sanctuary and Wildlife Enclosure are two fun, engaging, and cognitively ch
 <li>System.IO.Ports – serial port communication</li>
 <li>UnityEngine</li>
 <li>UnityEngine.AI - pathfinding</li>
+<li>stdlib.h - standard Arduino library</li>
+<li>ResponsiveAnalogRead.h - analog input noise reduction</li>
 </ol>
 {{< /tab >}}
 
 
-{{< tab tabNum="5" >}}
+{{< tab tabNum="6" >}}
 ### <b>News Coverage</b>
 <b>Morning Joe</b>
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">

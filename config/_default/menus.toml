@@ -18,7 +18,25 @@
 name = "Virtual Reality"
 parent = "All Projects"
 url = "/virtual-reality"
+weight = 14
+
+[[main]]
+name = "Data Science"
+parent = "All Projects"
+url = "/project/ncaaf-coaches"
 weight = 15
+
+[[main]]
+name = "Brain Imaging"
+parent = "All Projects"
+url = "/project/fitviz"
+weight = 16
+
+[[main]]
+name = "Clinical Research"
+parent = "All Projects"
+url = "/project/neuroflow"
+weight = 17
 
 [[main]]
   name = "Skills"
