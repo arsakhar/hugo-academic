@@ -13,7 +13,7 @@ type: "clinical-research"
 <b><u>FitViz</u></b><br>
 ANT+ Health and Fitness Monitoring Client. (<b><a href="/project/fitviz/">Read</a></b>)
 
-<a href="/project/fitviz/"><img src="/project/fitviz/featured.png" /></img></a>
+<a href="/project/fitviz/"><img src="/project/fitviz/featured.PNG" /></img></a>
 
 {{< /tab >}}
 
