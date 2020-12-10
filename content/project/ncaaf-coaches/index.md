@@ -81,20 +81,15 @@ Code can be downloaded at: <a href="https://github.com/arsakhar/NCAAF">https://g
     </ul>
 </ol>
 
-<ol>
-
-
-</ul>
-
 #### Packages
 <ol>
-<li>Beautiful Soup</li>
-<li>Scipy</li>
-<li>Matplotlib</li>
-<li>Pandas</li>
-<li>Numpy</li>
-<li>Scikit</li>
-<li>StatsModels</li>
+  <li>Beautiful Soup</li>
+  <li>Scipy</li>
+  <li>Matplotlib</li>
+  <li>Pandas</li>
+  <li>Numpy</li>
+  <li>Scikit</li>
+  <li>StatsModels</li>
 </ol>
 
 {{< /tab >}}

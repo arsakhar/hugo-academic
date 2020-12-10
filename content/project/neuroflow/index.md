@@ -19,30 +19,62 @@ image:
   focal_point: "Bottom"
   preview_only: false
 
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
 
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: ""
+  # Projects (optional).
+  #   Associate this post with one or more of your projects.
+  #   Simply enter your project's folder or file name without extension.
+  #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+  #   Otherwise, set `projects = []`.
+  projects: []
 ---
 
-<b>Overview</b><br>
+{{< tabs tabTotal="2" tabID="1" tabName1="Overview" tabName2="Skills" >}}
+{{< tab tabNum="1" >}}
+#### Overview
 NeuroFlow is an imaging tool that allows neuroscientists and clinicians to analyze cerebral flow dynamics in the brain. The continuous circulation of cerebrospinal fluid (CSF) and cerebral blood flow (CBF) is key to the health of our central nervous system. When CSF and CBF dynamics in the brain become dysregulated, pathophysiological states can occur. As such, cerebral flow dynamics may be an important biomarker for identifying meaningful alterations in neurological diseases.
 
 Phase-contrast MRI (PC-MRI) is a validated, non-invasive MRI imaging technique, allowing rapid measurements of CSF and CBF flow in the brain. NeuroFlow provides a user-friendly interface for neuroscientists and clinicians to analyze PC-MRI images and extract measurements associated with cerebral flow dynamics. Moreover, NeuroFlow provides numerous tools to help user's quickly, accurately, and painlessly analyze flow data.
 
 NeuroFlow can be downloaded at: https://github.com/arsakhar/NeuroFlow
+
+{{< /tab >}}
+
+
+{{< tab tabNum="2" >}}
+#### Technical Skills
+
+<ol>
+  <li>Reading and Loading DICOMDIR</li>
+    <ul style="list-style-type:square;">
+      <li>Storing Patient, Study, Series, Sequence, and Image information entities of the DICOM data model in accordance with the NEMA DICOM standard.</li>
+    </ul>
+  <li>Image Segmentation</li>
+    <ul style="list-style-type:square;">
+      <li>Providing tools for users to segment and label ROI’s on an image</li>
+    </ul>
+  <li>Visualization</li>
+    <ul style="list-style-type:square;">
+      <li>Developing GUI</li>
+      <li>Displaying Graphs, Images, Tables, and DICOM Metadata</li>
+    </ul>
+  <li>Image Classification</li>
+    <ul style="list-style-type:square;">
+      <li>Training a CNN to classify MRI scans according to anatomical level in the brain</li>
+    </ul>
+</ol>
+
+#### Packages
+<ol>
+  <li>PyQt5</li>
+  <li>NumPy</li>
+  <li>Pandas</li>
+  <li>PyQtGraph</li>
+  <li>PIL</li>
+  <li>CV2</li>
+  <li>Torch</li>
+  <li>TorchVision</li>
+  <li>Matplotlib</li>
+  <li>Pydicom</li>
+</ol>
+
+{{< /tab >}}
