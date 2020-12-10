@@ -23,19 +23,19 @@ weight = 14
 [[main]]
 name = "Data Science"
 parent = "All Projects"
-url = "/project/ncaaf-coaches"
+url = "/data-science"
 weight = 15
 
 [[main]]
 name = "Brain Imaging"
 parent = "All Projects"
-url = "/project/neuroflow"
+url = "/brain-imaging"
 weight = 16
 
 [[main]]
 name = "Clinical Research"
 parent = "All Projects"
-url = "/project/fitviz"
+url = "/clinical-research"
 weight = 17
 
 [[main]]
