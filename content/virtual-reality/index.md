@@ -24,7 +24,7 @@ Sal's Sanctuary and Wildlife Enclosure are two fun, engaging, and cognitively ch
 
 <a href="/project/wildlife-enclosure/">Wildlife Enclosure</a> - Look after and take care of rescued animals located in exotic environments
 
-<b>Underwater Adventures (In Development)</b> - Explore and photograph aquatic life in this underwater world
+<a href="/project/underwater-adventures/">Underwater Adventures (In Development)</a> - Explore and photograph aquatic life in this underwater world
 {{< /tab >}}
 
 {{< tab tabNum="3" >}}
