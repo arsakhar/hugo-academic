@@ -35,6 +35,11 @@ NeuroFlow is an imaging tool that allows neuroscientists and clinicians to analy
 
 Phase-contrast MRI (PC-MRI) is a validated, non-invasive MRI imaging technique, allowing rapid measurements of CSF and CBF flow in the brain. NeuroFlow provides a user-friendly interface for neuroscientists and clinicians to analyze PC-MRI images and extract measurements associated with cerebral flow dynamics. Moreover, NeuroFlow provides numerous tools to help user's quickly, accurately, and painlessly analyze flow data.
 
+### Video
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/VVsJvCKQgo0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 NeuroFlow can be downloaded at: https://github.com/arsakhar/NeuroFlow
 
 {{< /tab >}}
