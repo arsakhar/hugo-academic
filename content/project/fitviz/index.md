@@ -61,10 +61,6 @@ FitViz can be downloaded at: https://github.com/arsakhar/FitViz
       <li>Developing GUI</li>
       <li>Displaying sensor values in real-time</li>
     </ul>
-  <li>Image Classification</li>
-    <ul style="list-style-type:square;">
-      <li>Training a CNN to classify MRI scans according to anatomical level in the brain</li>
-    </ul>
 </ol>
 
 #### Packages
