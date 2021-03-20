@@ -38,6 +38,11 @@ The idea behind this project was to provide a standalone PC application that all
 #### About ANT+
 ANT+ is a wireless sensor network technology that allows you to moniter data broadcast from ANT+ capable devices. Fitness equipment, bike trainers, heart rate monitors, and blood pressure monitors are just a few of the many devices supported within the ANT+ ecosystem. Data broadcast from ANT+ devices is standardized based on the type of data being sent. ANT+ refers to a data type as a device profile. An ANT+ device can broadcast data associated with multiple device profiles. For example, the Wahoo Kickr Snap broadcasts bicycle power and fitness equipment data.
 
+### Video
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Eyo31jKeFIw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 FitViz can be downloaded at: https://github.com/arsakhar/FitViz
 
 {{< /tab >}}
