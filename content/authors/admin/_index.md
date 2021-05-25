@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I have a passion for solving clinical problems through product development and actionable insights derived from data-driven approaches.
+bio: I have a passion for solving clinical problems through actionable insights derived from data-driven approaches.
 
 interests:
 - Clinical Research
