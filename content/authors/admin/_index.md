@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate <br>Neuroscientist | Neuroengineer
+role: Data Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: University of Southern California
+- name:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include developing innovative technologies to understand and treat human diseases.
+bio: I have a passion for solving clinical problems through product development and actionable insights derived from data-driven approaches.
 
 interests:
 - Clinical Research
@@ -71,4 +71,8 @@ user_groups:
 - Visitors
 ---
 
-I am an academic researcher with a passion for problem solving and innovation in healthcare. I am currently utilizing novel MRI imaging techniques to elucidate the etiology of Alzheimer's disease. As an extension of this work, I am also developing a virtual reality game to remediate cognitive decline in older adults. I have expertise in brain imaging, virtual reality, game development, and data science. I am a collaborative researcher who excels in multi-disciplinary environments.
+I am a Data Scientist with a strong background in programming, applied
+statistical data analysis, and applying ML algorithms to medical imaging.
+I also have 5+ years’ experience in neuroimaging, virtual reality,
+software development, game development, and conducting clinical trials.
+I am a collaborative researcher who excels in multi-disciplinary environments.

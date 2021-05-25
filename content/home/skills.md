@@ -59,6 +59,11 @@ subtitle = ""
   icon_pack = "fas"
   name = "Perforce"
 
+  [[feature]]
+    icon = "github"
+    icon_pack = "fab"
+    name = "GitHub"
+
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
